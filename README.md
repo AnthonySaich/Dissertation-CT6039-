@@ -8,6 +8,7 @@ To install them, you need to open cmd/terminal and write: pip install -r require
 
 About this Dataset 
 The two datsets used was Nazario dataset and the erormo dataset. Both can be found here.
+Each of the datasets can be found during each stage of cleaning
 
 
 
